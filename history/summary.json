@@ -4,19 +4,19 @@
     "url": "https://projects.tattva.cloud",
     "icon": "https://favicons.githubusercontent.com/projects.tattva.cloud",
     "slug": "tattva-cloud-projects",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 760,
-    "timeDay": 613,
-    "timeWeek": 740,
-    "timeMonth": 706,
-    "timeYear": 760,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 758,
+    "timeDay": 620,
+    "timeWeek": 726,
+    "timeMonth": 703,
+    "timeYear": 758,
     "dailyMinutesDown": {
-      "2021-06-14": 0
+      "2021-06-14": 9
     }
   },
   {

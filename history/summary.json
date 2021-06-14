@@ -4,9 +4,9 @@
     "url": "https://projects.tattva.cloud",
     "icon": "https://favicons.githubusercontent.com/projects.tattva.cloud",
     "slug": "tattva-cloud-projects",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 740,
     "timeMonth": 706,
     "timeYear": 760,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-14": 0
+    }
   },
   {
     "name": "Tattva.Cloud API",
